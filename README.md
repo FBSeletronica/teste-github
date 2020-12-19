@@ -4,10 +4,10 @@ Repo teste para introdução ao Github
 
 # Título do Projeto
 
-    Autores: Nome + RA
-    Professor:
-    Disciplina:
-    Instituição:
+- Autores: Nome + RA
+- Professor:
+- Disciplina:
+- Instituição:
 
 ## Introdução
 
