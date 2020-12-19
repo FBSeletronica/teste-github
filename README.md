@@ -7,7 +7,7 @@ Repo teste para introdução ao Github
 # Título do Projeto
 
 - Autores: Danillo Lins
-- Professor:
+- Professor: Fábio
 - Disciplina:
 - Instituição:
 
