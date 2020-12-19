@@ -44,7 +44,7 @@ void setup() {
     ,  "Task2"                          /* Nome da Task */
     ,  configMINIMAL_STACK_SIZE + 1024  /* Stack Size,*/
     ,  NULL                             /* parametro passado para a task*/
-    ,  2                                /* Prioridade da task*/
+    ,  3                                /* Prioridade da task*/
     ,  &task2Handle                     /* handle da task*/
     );       
 }
