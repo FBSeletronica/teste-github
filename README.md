@@ -5,6 +5,7 @@ Repo teste para introdução ao Github
 # Título do Projeto
 
 - Autores: Nome + RA
+Tiago Gallo - 200014441
 - Professor:
 - Disciplina:
 - Instituição:
