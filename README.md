@@ -20,6 +20,8 @@ materiais e recursos utilizados para desenvolvimento do projeto
 
 Esquema elétrico da solução ou diagrama de blocos
 
+![placa](img/placa.jpeg)
+
 ## Código fonte
 
 Código Fonte da aplicação desenvolvido com FreeRTOS
