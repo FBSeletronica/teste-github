@@ -5,7 +5,7 @@ Repo teste para introdução ao Github
 # Título do Projeto
 
 - Autores: Nome + RA
-- Professor:
+- Professor: Fábio
 - Disciplina:
 - Instituição:
 
